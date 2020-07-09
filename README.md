@@ -8,7 +8,7 @@ Thank You for visiting my GitHub Account and I feel honored when someone sees my
 
 #### Languages 🌐
 
-- Known
+- Known/Using
 
 | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/go/go.png" alt="go logo" width="24">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
 |---|---|---|---|---|---|
@@ -21,14 +21,15 @@ Thank You for visiting my GitHub Account and I feel honored when someone sees my
 
 #### Tools 🛠️
 
-
-- GitHub Actions
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://www.docker.com/) |
+|---|
+<!---
 - Travis CI
 - VSCode
 - WSL and Windows Terminal
 - Git
 - Makefile
-
+-->
 
 - Learning
 
@@ -48,12 +49,8 @@ Thank You for visiting my GitHub Account and I feel honored when someone sees my
 
 You can find and get touch with me on these accounts!
 
-- Github : https://github.com/Delta456
-- Instagram : https://www.instagram.com/delta231_/
-- Dev.to : https://dev.to/delta456
-- Twitter : https://twitter.com/Delta2315
-- StackOverFlow : https://stackoverflow.com/users/10053063/delta231
-- Deviant Art : https://www.deviantart.com/delta2318
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.jpg" alt="twitter logo" width="24">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://twitter.com/Delta2315)
+|---|---|---|---|---|---|
 
 <!--
 **Delta456/Delta456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
