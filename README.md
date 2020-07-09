@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Swastik Baranwal from Delhi, India who is a noob, open source and vlang contributor, devOps enthusiastic, ex pokemon gba rom hacker and pixel artist, loves anime and manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
+I am Swastik Baranwal from Delhi, India who is a Noob, Open Source and V Contributor, DevOps enthusiastic, Ex Pokemon Gba Rom hacker and Pixel Artist, loves Anime and manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Acknowledged by Guido Van Rossum himself 🤯
