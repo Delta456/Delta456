@@ -23,22 +23,15 @@ I am Swastik Baranwal from Delhi, India who is a noob, Open Source and vlang con
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) |
-|---|
-<!---
-- Travis CI
-- VSCode
-- WSL and Windows Terminal
-- Git
-- Makefile
--->
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | WSL | Makefile | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/windows_terminal.jpg" alt="windows_terminal logo" width="24">](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)| many more...
+|---|---|---|---|---|---|---|
 
 - Learning
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) |
 |---|---|
 
-### Social Media Accounts 📫
+### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
 
