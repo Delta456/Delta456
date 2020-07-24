@@ -5,7 +5,7 @@ I am Swastik Baranwal from Delhi, India who is an Open Source and V Contributor,
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
 
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&hide=["stars"]&show_icons=true)
+![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&hide=stars&show_icons=true)
 
 
 ### Programming Languages 🌐
