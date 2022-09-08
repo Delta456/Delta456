@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Swastik Baranwal from New Delhi, India who is an Open Source and V Contributor, DevOps enthusiast, Ex Pokemon GBA Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Forem's [Dev.to](https://dev.to/) etc.
+I am Swastik Baranwal from New Delhi, India who is an Open Source and V Contributor, DevOps enthusiast, Ex Pokemon GBA Rom Hacker and Pixel Artist, I love Anime and Manga, constantly learning new things, ready for discussions and doing new projects, write blogs on Forem's [Dev.to](dev.to) etc.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
