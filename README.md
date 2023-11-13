@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Swastik Baranwal from New Delhi, India. I am an open-source contributor, [The V Programming Language](vlang.io) developer, [FOSS United](fossunited.org) CFP volunteer and Delhi Meetup Organizer, Gopher, Pythoneer, and a DevOps enthusiast. I love Compiler Design, open-source, languages, CLIs, Anime and Manga. I constantly learn new things, am ready to discuss any trending topics and doing new projects, and write blogs on Forem's Dev.to etc.
+Hi, I am Swastik Baranwal from New Delhi, India. I am a developer, open-source contributor, part of [The V Programming Language](vlang.io) as one of the core developers, [FOSS United](fossunited.org) CFP volunteer and also organize FOSS meetups in Delhi. I maintain and contribute to several open-source projects and organizations, also part of [nixpkg-maintainers](https://github.com/NixOS) team at NixOS and [catppuccin](https://github.com/catppuccin), moderate on Dev.to for several tags, volunteering and co-organizing many tech events based in Delhi, a technical speaker.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
@@ -34,7 +34,7 @@ Hi, I am Swastik Baranwal from New Delhi, India. I am an open-source contributor
 
 ### Other Accounts 📫
 
-You can find and get touch with me on these accounts!
+You can find and get in touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/swastik-baranwal/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456)
 |---|---|---|---|---|---|---|
