@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi, I am Swastik Baranwal from New Delhi, India. I am a developer and the creator of [Box CLI Maker](https://github.com/Delta456/box-cli-maker), open-source contributor, part of [The V Programming Language](vlang.io) as one of the core developers, [FOSS United](fossunited.org) CFP volunteer and also organize FOSS meetups in Delhi. I maintain and contribute to several open-source projects and organizations, also part of [nixpkg-maintainers](https://github.com/NixOS) team at NixOS and [catppuccin](https://github.com/catppuccin), moderate on Dev.to for several tags, volunteering and co-organizing many tech events based in Delhi, a technical speaker.
+Hi, I am Swastik Baranwal from New Delhi, India. I am a developer and the creator of [Box CLI Maker](https://github.com/Delta456/box-cli-maker), an open-source contributor, part of [The V Programming Language](vlang.io) as one of the core developers, [FOSS United](fossunited.org) CFP volunteer and also organize FOSS meetups in Delhi. I maintain and contribute to several open-source projects and organizations, and I am also part of [nixpkg-maintainers](https://github.com/NixOS) team at [NixOS](https://nixos.org/) and [catppuccin](https://github.com/catppuccin), moderate on [Dev.to](https://dev.to/) for several tags, volunteering and co-organizing many tech events based in Delhi, a technical speaker as well.
+
+Previously I interned at [Effective.AF](https://effective.af/) where I worked as an SDE Intern and worked with Go, JS/TS, and Svelte.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
