@@ -13,8 +13,10 @@ Previously I interned at [Effective.AF](https://effective.af/) where I worked as
 
 ### Open Source Friday with GitHub 💿
 
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">    
-  <img src="https://i.ytimg.com/vi/gs8FFp0rAbk/maxresdefault.jpg?v=6660cddb" alt="https://youtu.be/gs8FFp0rAbk"  height="80%" width="60%">
+<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
+  <a href="https://www.youtube.com/watch?v=gs8FFp0rAbk">
+   <img src="https://i.ytimg.com/vi/gs8FFp0rAbk/maxresdefault.jpg?v=6660cddb" alt="Thumbnail"  height="80%" width="60%">
+  </a>  
 </div>
 
 Learn more about me from this podcast 🎙
