@@ -10,6 +10,15 @@ Previously I interned at [Effective.AF](https://effective.af/) where I worked as
 [![Swastik Baranwal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Swastik Baranwal's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+
+### Open Source Friday with GitHub 💿
+
+<div style="display: flex; justify-content: center; align-items: center; height: 400px;">    
+  <img src="https://i.ytimg.com/vi/gs8FFp0rAbk/maxresdefault.jpg?v=6660cddb" alt="https://youtu.be/gs8FFp0rAbk"  height="80%" width="60%">
+</div>
+
+Learn more about me from this podcast 🎙
+
 <!---
 
 ### Programming Languages 🌐
