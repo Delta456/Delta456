@@ -4,6 +4,8 @@ Hi, I am Swastik Baranwal from New Delhi, India. I am a developer and the creato
 
 Previously I interned at [Effective.AF](https://effective.af/) where I worked as an SDE Intern and worked with Go, JS/TS, and Svelte.
 
+Now, I work at LambdaTest as an SDE (OSPO) Intern and contribute to Selenium, WebDriverIO and related open-source software.
+
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
 
