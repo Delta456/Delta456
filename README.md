@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-Hi, I am Swastik Baranwal from New Delhi, India. I am a developer and the creator of [Box CLI Maker](https://github.com/Delta456/box-cli-maker), an open-source contributor, part of [The V Programming Language](vlang.io) as one of the core developers, [FOSS United](fossunited.org) CFP volunteer and also organize FOSS meetups in Delhi. I maintain and contribute to several open-source projects and organizations, and I am also part of [nixpkg-maintainers](https://github.com/NixOS) team at [NixOS](https://nixos.org/) and [catppuccin](https://github.com/catppuccin), moderate on [Dev.to](https://dev.to/) for several tags, volunteering and co-organizing many tech events based in Delhi, a technical speaker as well.
+Hi, I’m Swastik Baranwal — a software developer from New Delhi, India focused on open source, developer tooling, and community-driven software.
 
-Previously I interned at [Effective.AF](https://effective.af/) where I worked as an SDE Intern and worked with Go, JS/TS, and Svelte.
+I’m the creator of [Box CLI Maker](github.com/Delta456/box-cli-maker), a Go library for building customizable CLI boxes, used by Kubernetes’ Minikube. I’m also a core developer of the [V Programming Language](https://vlang.io/) and maintain several open-source projects in my spare time.
 
-Now, I work at [LambdaTest](https://www.lambdatest.com/) as an SDE (OSPO) Intern and contribute to [Selenium](https://www.selenium.dev/), [WebDriverIO](https://webdriver.io/) and related open-source software.
+Currently, I’m part of the OSPO team at LambdaTest, where I contribute to [Selenium](https://www.selenium.dev/), [Appium](https://appium.io/), [WebDriverIO](https://webdriver.io/), and other open-source projects in the testing ecosystem.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
+- 🥇 Featured by Open Source Initiative: https://opensource.org/maintainers/delta456
+
 
 [![Swastik Baranwal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Swastik Baranwal's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -22,6 +24,7 @@ Now, I work at [LambdaTest](https://www.lambdatest.com/) as an SDE (OSPO) Intern
 </div>
 
 Learn more about me from this podcast 🎙
+
 
 <!---
 
@@ -57,3 +60,4 @@ You can find and get in touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/swastik-baranwal/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456)
 |---|---|---|---|---|---|---|
+
