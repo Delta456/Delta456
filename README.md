@@ -2,13 +2,13 @@
 
 Hi, I’m Swastik Baranwal — a software developer from New Delhi, India focused on open source, developer tooling, and community-driven software.
 
-I’m the creator of [Box CLI Maker](github.com/Delta456/box-cli-maker), a Go library for building customizable CLI boxes, used by Kubernetes’ Minikube. I’m also a core developer of the [V Programming Language](https://vlang.io/) and maintain several open-source projects in my spare time.
+I’m the creator of [Box CLI Maker](github.com/Delta456/box-cli-maker), a Go library for building customizable CLI boxes, used by Kubernetes’ Minikube. I’m also a core developer of the [V Programming Language](https://vlang.io/) and maintain several open source projects in my spare time.
 
-Currently, I’m part of the OSPO team at LambdaTest, where I contribute to [Selenium](https://www.selenium.dev/), [Appium](https://appium.io/), [WebDriverIO](https://webdriver.io/), and other open-source projects in the testing ecosystem.
+Currently, I’m part of the OSPO team at [LambdaTest](https://www.lambdatest.com/), where I contribute to [Selenium](https://www.selenium.dev/), [Appium](https://appium.io/), [WebDriverIO](https://webdriver.io/), and other open source projects in the testing ecosystem.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
-- 🥇 Featured by Open Source Initiative: https://opensource.org/maintainers/delta456
+- 🥇 Featured by [Open Source Initiative](https://opensource.org/maintainers/delta456)
 
 
 [![Swastik Baranwal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -60,4 +60,5 @@ You can find and get in touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/swastik-baranwal/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456)
 |---|---|---|---|---|---|---|
+
 
