@@ -4,7 +4,7 @@ Hi, I’m Swastik Baranwal — a software developer from New Delhi, India, focus
 
 I’m the creator of [Box CLI Maker](https://github.com/box-cli-maker/box-cli-maker), a Go library for rendering highly customizable boxes, used by Kubernetes’ Minikube. I’m also a core developer of the [V Programming Language](https://vlang.io/) and maintain several open source projects in my spare time.
 
-Currently, I’m part of the OSPO team at [LambdaTest](https://www.lambdatest.com/), where I contribute to [Selenium](https://www.selenium.dev/), [Appium](https://appium.io/), [WebDriverIO](https://webdriver.io/), and other open source projects in the testing ecosystem.
+Currently, I’m part of the OSPO team at [TestMu AI (formerly LambdaTest)](https://www.testmuai.com/), where I contribute to [Selenium](https://www.selenium.dev/), [Appium](https://appium.io/), [WebDriverIO](https://webdriver.io/), and other open source projects in the testing ecosystem.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
